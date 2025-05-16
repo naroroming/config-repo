@@ -1,1 +1,2 @@
--e "service:\n  name: test service A" 
+service: 
+"  name: test service A" 
